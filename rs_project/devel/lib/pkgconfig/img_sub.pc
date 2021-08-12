@@ -1,0 +1,8 @@
+prefix=/home/yoon/rs_project/devel
+
+Name: img_sub
+Description: Description of img_sub
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

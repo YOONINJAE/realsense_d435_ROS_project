@@ -1,0 +1,2 @@
+depth_sub:img_sub:pcl_sub:rs_pub
+-G CodeBlocks - Unix Makefiles -DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/yoon/rs_project/devel -DCMAKE_INSTALL_PREFIX=/home/yoon/rs_project/install
